@@ -2,6 +2,9 @@
 
 Цей проєкт демонструє, як розгорнути модель машинного навчання за допомогою Streamlit для класифікації квітів ірису на три види: `setosa`, `versicolor` та `virginica`. Додаток дозволяє користувачам вводити характеристики квітки та отримувати прогноз на основі навченої моделі Random Forest.
 
+Протестувати роботу аплікейшену можна за посиланням: https://app-iris-demo-xqcnetfwfjao3nnv3jelc3.streamlit.app/
+Якщо за посиланням виводиться повідомлення "This app has gone to sleep due to inactivity. Would you like to wake it back up?" просто натисніть кнопку "Yes, get this app back up!" і зачекайте півхвилини.
+
 ## Структура проєкту
 
 - **data/**: Директорія, що містить набір даних Iris (`iris.csv`).
